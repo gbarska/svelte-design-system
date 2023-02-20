@@ -1,4 +1,4 @@
-<svelte:options tag="pg-theme-container" />
+<svelte:options tag="tk-theme-container" />
 
 <script>
   export let primary = "green";
